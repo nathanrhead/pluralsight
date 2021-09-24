@@ -1,2 +1,2 @@
 # react
-Projects Using React
+Projects from Pluralsight Tutorials
