@@ -66,7 +66,7 @@ export default class App extends React.Component {
 	render() {
   	return (
     	<div>
-    	  <div className="header">{this.props.title}</div>
+    	  <div className="header"></div>
         <Form onSubmit={this.addNewProfile}/>
         <CardList profiles={this.state.profiles} />
     	</div>
